@@ -6,4 +6,5 @@
 ### Ankit: Multiobjective optimization and reinforcement learning
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-Image showing a Kathak dancer
+
+Figure 1: Image showing a Kathak dancer
